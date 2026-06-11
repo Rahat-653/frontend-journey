@@ -1,0 +1,38 @@
+/* Basic styling for the whole page */
+body {
+  font-family: Arial, sans-serif;
+  background-color: #f4f4f4;
+  color: #333;
+  line-height: 1.6;
+}
+
+/* Style for main heading */
+h1 {
+  color: #2c3e50;
+  text-align: center;
+}
+
+/* Style for sub headings */
+h2 {
+  color: #2980b9;
+  border-bottom: 2px solid #2980b9;
+  padding-bottom: 5px;
+}
+
+/* Style for paragraphs */
+p {
+  font-size: 18px;
+}
+
+/* Style for the list */
+ul {
+  background-color: white;
+  padding: 20px;
+  border-radius: 8px;
+}
+
+/* Style for list items */
+li {
+  margin-bottom: 10px;
+  font-size: 17px;
+}
