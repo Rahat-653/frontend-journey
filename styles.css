@@ -1,4 +1,28 @@
 /* General Page Styling */
+/* Responsive Design for Mobile */
+@media (max-width: 768px) {
+  body {
+    padding: 15px;
+  }
+
+  section {
+    padding: 20px;
+    margin-bottom: 25px;
+  }
+
+  h1 {
+    font-size: 28px;
+  }
+
+  h2 {
+    font-size: 22px;
+  }
+}
+.flex-container {
+  display: flex;
+  gap: 20px;
+  flex-wrap: wrap;
+}
 section {
   box-shadow: 0 4px 12px rgba(17, 16, 16, 0.1);
   border-radius: 12px;
